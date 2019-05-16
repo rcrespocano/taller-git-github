@@ -569,7 +569,7 @@ git log --graph
 ## Workflow: cómo trabajar en equipo con `git`
 ## 
 
-![](images/img-01.png)
+![](images/img-01.jpeg)
 
 Se recomienda leer el *post* [Using Git in a team: a cheatsheet](http://jameschambers.co/writing/git-team-workflow-cheatsheet/).
 
