@@ -585,6 +585,7 @@ Se recomienda leer el *post* [Using Git in a team: a cheatsheet](http://jamescha
 * [Aprende Git](https://github.com/oslugr/curso-git). Juan Julián Merelo, Pablo Hinojosa.
 * [Git y GitHub. Guía de superviviencia](https://leanpub.com/gitygithub). Luis José Sánchez González.
 * [GitHub Guides](https://guides.github.com).
+* [GitLab Documentation](https://docs.gitlab.com/).
 * [Introdución a Git](https://github.com/rcrespocano/intro-git). Rubén Crespo-Cano
 
 ## Créditos
