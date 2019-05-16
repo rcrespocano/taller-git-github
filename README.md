@@ -664,7 +664,7 @@ git log
 * [Git y GitHub. Guía de superviviencia](https://leanpub.com/gitygithub). Luis José Sánchez González.
 * [GitHub Guides](https://guides.github.com).
 * [GitLab Documentation](https://docs.gitlab.com/).
-* [Introdución a Git](https://github.com/rcrespocano/intro-git). Rubén Crespo-Cano
+* [Introdución a Git](https://github.com/rcrespocano/intro-git). Rubén Crespo-Cano.
 
 ## Créditos
 
