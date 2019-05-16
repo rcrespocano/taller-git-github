@@ -461,7 +461,7 @@ taller-git	https://github.com/josejuansanchez/taller-git-github.git (fetch)
 taller-git	https://github.com/josejuansanchez/taller-git-github.git (push)
 ```
 
-La primera línea acabada con la palabra *(fectch)* indica que esa es la url del repositorio remoto desde el que podemos recibir cambios.
+La primera línea acabada con la palabra *(fetch)* indica que esa es la url del repositorio remoto desde el que podemos recibir cambios.
 
 La segunda línea acabada con la palabra *(push)* indica que esa es la url del repositorio remoto donde podemos enviar nuestros cambios.
 
