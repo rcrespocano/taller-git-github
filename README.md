@@ -14,7 +14,8 @@ En este taller de introducción a `git` y [GitLab][1] aprenderemos los comandos 
   1.9 [El archivo `.gitignore`](#el-archivo-gitignore)  
   1.10 [Consultar el historial de *commits*](#consultar-el-historial-de-commits)  
 2. [GitLab](#gitlab)  
-  2.1 [Workflow: cómo trabajar en equipo con `git`](#workflow)  
+  2.1 [Workflow: cómo trabajar en equipo con `git`](#workflow-como-trabajar-en-equipo-con-git)
+
 
 # `git`
 
