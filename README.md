@@ -564,16 +564,15 @@ git log --graph
 
 # GitLab
 
-<!--
-
 ## Workflow: cómo trabajar en equipo con `git`
 ## 
 
 ![](images/img-01.jpeg)
 
+Figura 2: Imagen de [Rubén Crespo-Cano](https://about.me/rubencrespocano).
+
 Se recomienda leer el *post* [Using Git in a team: a cheatsheet](http://jameschambers.co/writing/git-team-workflow-cheatsheet/).
 
--->
 
 ## Tips
 
