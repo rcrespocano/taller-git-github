@@ -14,7 +14,7 @@ En este taller de introducción a `git` y [GitLab][1] aprenderemos los comandos 
   1.9 [El archivo `.gitignore`](#el-archivo-gitignore)  
   1.10 [Consultar el historial de *commits*](#consultar-el-historial-de-commits)  
 2. [GitLab](#gitlab)  
-  2.1 [Workflow](#workflow)  
+  2.1 [Workflow: cómo trabajar en equipo con `git`](#workflow)  
 
 # `git`
 
@@ -430,7 +430,7 @@ git clone https://github.com/josejuansanchez/taller-git-github.git
 
 Al clonar este repositorio se nos creará un directorio en nuestra máquina con el nombre `taller-git-github` con el contenido del repositorio remoto.
 
-Esta es la opción que yo personalmente suelo utilizar a la hora de trabajar con repositorios remotos. En primer lugar creo el repositorio remoto en `GitHub` y luego hago un `git clone` para clonarlo en mi máquina local.
+Esta es la opción que yo personalmente suelo utilizar a la hora de trabajar con repositorios remotos. En primer lugar creo el repositorio remoto en `GitHub` o `GitLab` y luego hago un `git clone` para clonarlo en mi máquina local.
 
 ### Opción 2: Añadir un repositorio remoto a un repositorio ya existente
 
@@ -531,14 +531,6 @@ Tenga en cuenta que `git pull` es equivalente a realizar `git fetch` seguido de 
 
 Se recomienda leer el [capítulo 3: Ramificaciones en Git][2] del libro [Pro Git][3] de Scott Chacon y Ben Straub.
 
-## Cómo trabajar en equipo con `git`
-
-![](images/img-01.png)
-
-Figura 2: Imagen extraída del blog de [James Chambers](http://jameschambers.co/writing/git-team-workflow-cheatsheet/).
-
-Se recomienda leer el *post* [Using Git in a team: a cheatsheet](http://jameschambers.co/writing/git-team-workflow-cheatsheet/).
-
 ## El archivo `.gitignore`
 
 Dentro del directorio raíz de nuestro proyecto podemos tener un archivo especial llamado `.gitignore` donde indicamos los archivos o tipos de archivos que queremos que sean ignorados por `git`. 
@@ -572,13 +564,14 @@ git log --graph
 
 # GitLab
 
-Se recomienda leer el [capítulo 6: GitHub][4], del libro [Pro Git][3] de Scott Chacon y Ben Straub.
-
 <!--
 
-## Workflow
+## Workflow: cómo trabajar en equipo con `git`
+## 
 
-(*Próximamente*)
+![](images/img-01.png)
+
+Se recomienda leer el *post* [Using Git in a team: a cheatsheet](http://jameschambers.co/writing/git-team-workflow-cheatsheet/).
 
 -->
 
@@ -597,7 +590,6 @@ Se recomienda leer el [capítulo 6: GitHub][4], del libro [Pro Git][3] de Scott 
 ## Créditos
 
 * La *Figura 1* es una imagen diseñada por [Oliver Steele](http://osteele.com).
-* La *Figura 2* es una imagen extraída del blog de [James Chambers](http://jameschambers.co/writing/git-team-workflow-cheatsheet/).
 
 ## Autor
 
