@@ -427,10 +427,10 @@ git clone <url_del_repositorio_remoto>
 **Ejemplo:**
 
 ```
-git clone https://github.com/josejuansanchez/taller-git-github.git
+git clone https://github.com/rcrespocano/taller-git-gitlab.git
 ```
 
-Al clonar este repositorio se nos creará un directorio en nuestra máquina con el nombre `taller-git-github` con el contenido del repositorio remoto.
+Al clonar este repositorio se nos creará un directorio en nuestra máquina con el nombre `taller-git-gitlab` con el contenido del repositorio remoto.
 
 Esta es la opción que yo personalmente suelo utilizar a la hora de trabajar con repositorios remotos. En primer lugar creo el repositorio remoto en `GitHub` o `GitLab` y luego hago un `git clone` para clonarlo en mi máquina local.
 
