@@ -292,7 +292,7 @@ El escenario descrito sería el siguiente:
 Para deshacer los cambios realizados en `archivo.txt` y volver a su estado anterior sería necesario ejecutar:
 
 ```
-git ckeckout -- archivo.txt
+git checkout -- archivo.txt
 ```
 
 ## Borrando y moviendo/renombrando archivos
