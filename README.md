@@ -264,7 +264,7 @@ Después del comando anterior el repositorio quedaría así:
 ### Deshacer cambios en el *workspace*
 
 ```
-git ckeckout -- <archivo>
+git checkout -- <archivo>
 ```
 
 **Ejemplo:**
