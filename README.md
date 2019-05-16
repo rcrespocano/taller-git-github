@@ -576,7 +576,82 @@ Se recomienda leer el *post* [Using Git in a team: a cheatsheet](http://jamescha
 
 ## Ejemplo
 
-*TODO*
+i) Clonamos el repositorio
+```
+cd ~/Desktop/
+mkdir demo
+cd demo
+git clone https://steps.everis.com/git/EVERSAASPM/tmp.git
+cd tmp/
+```
+
+ii) Mostramos el historial del proyecto
+```
+git log
+```
+
+iii) Creamos una rama en GitLab con nombre feature/new-file-user-xxx (siendo xxx las iniciales del usuario)
+
+iv) Nos traemos la rama creada
+```
+git fetch origin feature/new-file-user-xxx
+git status
+git branch
+```
+
+v) Cambiamos a la rama creada
+```
+git checkout feature/new-file-user-xxx
+git status
+git branch
+```
+
+vi) Creamos un nuevo fichero
+```
+vi FILE.user.xxx
+```
+
+vii) Añadimos el fichero a la *staging area*
+```
+git status
+git add FILE.user.xxx
+git status
+```
+
+viii) Movemos al fichero al repositorio
+```
+git commit -m 'New file'
+git status
+```
+
+ix) Subimos la rama al repositorio remoto de GitLab
+```
+git push origin feature/new-file-user-xxx
+```
+
+x) Creamos en GitLab un *merge request*
+
+xi) Iniciamos el proceso de revisión de código en la plataforma de GitLab
+
+xii) Cambiamos a la rama principal
+```
+git status
+git checkout master
+git branch
+```
+
+xiii) Borramos la rama temporal creada para este nuevo *feature*
+```
+git branch -d feature/new-file-user-xxx
+git branch
+```
+
+xiv) Actualizamos la rama principal y comprobamos que están los nuevos cambios, tras haber sido aceptado el *merge request*
+```
+git pull origin master
+git log
+```
+
 
 ## Tips
 
