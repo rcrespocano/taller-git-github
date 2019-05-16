@@ -11,9 +11,8 @@ En este taller de introducción a `git` y [GitLab][1] aprenderemos los comandos 
   1.6 [Borrando y moviendo/renombrando archivos](#borrando-y-moviendorenombrando-archivos)  
   1.7 [Cómo trabajar con un repositorio remoto](#cómo-trabajar-con-un-repositorio-remoto)  
   1.8 [Branches](#branches)  
-  1.9 [Cómo trabajar en equipo con `git`](#cómo-trabajar-en-equipo-con-git)  
-  1.10 [El archivo `.gitignore`](#el-archivo-gitignore)  
-  1.11 [Consultar el historial de *commits*](#consultar-el-historial-de-commits)  
+  1.9 [El archivo `.gitignore`](#el-archivo-gitignore)  
+  1.10 [Consultar el historial de *commits*](#consultar-el-historial-de-commits)  
 2. [GitLab](#gitlab)  
   2.1 [Workflow](#workflow)  
 
@@ -603,6 +602,7 @@ Se recomienda leer el [capítulo 6: GitHub][4], del libro [Pro Git][3] de Scott 
 ## Autor
 
 Este material ha sido desarrollado por [José Juan Sánchez](http://josejuansanchez.org).
+
 Este material ha sido modificado por [Rubén Crespo-Cano](https://about.me/rubencrespocano).
 
 ## Licencia
