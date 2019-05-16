@@ -15,6 +15,7 @@ En este taller de introducción a `git` y [GitLab][1] aprenderemos los comandos 
   1.10 [Consultar el historial de *commits*](#consultar-el-historial-de-commits)  
 2. [GitLab](#gitlab)  
   2.1 [Workflow: cómo trabajar en equipo con `git`](#workflow-como-trabajar-en-equipo-con-git)
+  2.2 [Ejemplo](#ejemplo)
 
 
 # `git`
@@ -566,7 +567,6 @@ git log --graph
 # GitLab
 
 ## Workflow: cómo trabajar en equipo con `git`
-## 
 
 ![](images/img-01.jpeg)
 
@@ -574,6 +574,9 @@ Figura 2: Imagen de [Rubén Crespo-Cano](https://about.me/rubencrespocano).
 
 Se recomienda leer el *post* [Using Git in a team: a cheatsheet](http://jameschambers.co/writing/git-team-workflow-cheatsheet/).
 
+## Ejemplo
+
+*TODO*
 
 ## Tips
 
