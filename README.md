@@ -581,7 +581,7 @@ i) Clonamos el repositorio
 cd ~/Desktop/
 mkdir demo
 cd demo
-git clone https://steps.everis.com/git/EVERSAASPM/tmp.git
+git clone <repo>
 cd tmp/
 ```
 
