@@ -472,7 +472,7 @@ Utilizaremos los mismos comandos que usamos para trabajar con un repositorio loc
 #### Enviamos los cambios con `push`
 
 ```
-git push
+git push origin master
 ```
 
 Usamos este comando para enviar al repositorio remoto los *commits* que hemos hecho en nuestro repositorio local. La forma más habitual de usarlo es hacerlo después de cada `commit`.
@@ -499,7 +499,7 @@ Usamos este comando para enviar al repositorio remoto los *commits* que hemos he
 ```
 git add archivo.txt
 git commit -m "Actualizamos el archivo.txt"
-git push
+git push origin master
 ```
 
 #### Recibimos los cambios con `pull`
